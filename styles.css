@@ -1,0 +1,42 @@
+/* homepage */
+
+/* horseracing */
+#h2-guide {
+  font-size: xx-large;
+  font-style: italic;
+  font-weight: bold;
+}
+
+/* drivers */
+
+/* calendar */
+table, th, td {
+  border: 2px solid black;
+  text-align: center;
+}
+
+th {
+  background-color: white;
+}
+
+.month {
+  width: 100%;
+}
+
+.th-month {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #E0E0D1;
+}
+
+.cal-no-race {
+  background-color: #F5F5F5;
+}
+
+.cal-1-race {
+  background-color: #99E699;
+}
+
+.cal-2-race {
+  background-color: #FFA31A;
+}
