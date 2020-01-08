@@ -8,6 +8,10 @@
 }
 
 /* drivers */
+.img-rating {
+  width: 16px;
+  height: 16px;
+}
 
 /* calendar */
 table, th, td {
